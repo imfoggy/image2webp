@@ -1,5 +1,5 @@
 {
-	"name": "topthink/think",
+	"name": "foggy/image2webp",
     "description": "采集页面中图片并将其转成webp格式",
     "type": "project",
     "keywords": [
