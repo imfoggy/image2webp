@@ -1,6 +1,6 @@
 {
 	"name": "foggy/image2webp",
-    "description": "采集页面中图片并将其转成webp格式",
+    "description": "Grab all pictures in the url page and convert them to webp format, supporting gif, jpg, png, jpeg",
     "type": "project",
     "keywords": [
         "image to webp",
