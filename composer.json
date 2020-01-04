@@ -1,0 +1,20 @@
+{
+	"name": "topthink/think",
+    "description": "采集页面中图片并将其转成webp格式",
+    "type": "project",
+    "keywords": [
+        "image to webp",
+        "webp"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "FOGGY",
+            "email": "x_foggy@163.com"
+        }
+    ],
+    "require": {
+    	"php": "~7.1.10",
+        "jaeger/querylist": "^4.1"
+    }
+}
